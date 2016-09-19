@@ -13,9 +13,7 @@ development:
   encoding: unicode
   host: localhost
   database: app-dev
-  pool: 5
   username: user # <== Change me!!
-  password: password # <== Change me too!
 
 
   # Connect on a TCP socket. Omitted by default since the client uses a
